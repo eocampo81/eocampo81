@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eocampo81
+- 👋 Hi, I’m Edward Ocampo
 - 👀 I’m interested in data integration, data analytics, data engineering, and data visualization
 - 🌱 I’m currently learning python for data analysis
 - 💞️ I’m looking to collaborate on complex problems dealing with data sets and integration along with the architecture to support the complexity
